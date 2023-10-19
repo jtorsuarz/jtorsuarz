@@ -9,7 +9,7 @@ Hello there! I'm a passionate full-stack developer with over 5 years of experien
 - 🐧 **Operating Systems:** Proficient in Linux server environments; also experienced in Windows servers.
 - 📹 **Content Creator:** I create educational videos and share helpful tips on social media to support the developer community.
 - 🌍 **Languages:** Fluent in English and Spanish.
-
+<!--
 ### 🛠️ Projects & Contributions 🛠️
 
 Here are some of the exciting projects and contributions you can find in my GitHub repositories:
@@ -17,7 +17,7 @@ Here are some of the exciting projects and contributions you can find in my GitH
 1. **Project 1:** [Project Name](Link to the project repository) - Brief description of the project.
 2. **Project 2:** [Project Name](Link to the project repository) - Brief description of the project.
 3. **Project 3:** [Project Name](Link to the project repository) - Brief description of the project.
-   
+-->
 Feel free to explore these projects, contribute, or reach out if you have any questions or collaboration ideas! Let's innovate and code together. 🌟
 
 ---
@@ -34,6 +34,7 @@ Feel free to explore these projects, contribute, or reach out if you have any qu
 - 📹 **Creador de Contenidos:** Creo videos educativos y comparto consejos útiles en redes sociales para apoyar a la comunidad de desarrolladores.
 - 🌍 **Idiomas:** Fluido en inglés y español.
 
+<!--
 ### 🛠️ Proyectos y Contribuciones 🛠️
 
 Aquí tienes algunos de los emocionantes proyectos y contribuciones que puedes encontrar en mis repositorios de GitHub:
@@ -41,5 +42,6 @@ Aquí tienes algunos de los emocionantes proyectos y contribuciones que puedes e
 1. **Proyecto 1:** [Nombre del Proyecto](Enlace al repositorio del proyecto) - Breve descripción del proyecto.
 2. **Proyecto 2:** [Nombre del Proyecto](Enlace al repositorio del proyecto) - Breve descripción del proyecto.
 3. **Proyecto 3:** [Nombre del Proyecto](Enlace al repositorio del proyecto) - Breve descripción del proyecto.
+-->
    
 ¡Siéntete libre de explorar estos proyectos, contribuir o ponerte en contacto si tienes preguntas o ideas de colaboración! ¡Innovemos y programemos juntos! 🌟
