@@ -194,6 +194,12 @@
       },
       {
         "skill": {
+          "name": "CMS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "CSS",
           "type": "technology"
         }
@@ -242,13 +248,31 @@
       },
       {
         "skill": {
+          "name": "JPA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "JSON",
           "type": "technology"
         }
       },
       {
         "skill": {
+          "name": "JSP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jetbrains",
           "type": "technology"
         }
       },
