@@ -367,6 +367,76 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ciclo Formativo de Grado Superior",
+        "startDate": "2019-09-01",
+        "institution": {
+          "name": "IMF",
+          "description": "Desarrollo de aplicaciones multiplataforma",
+          "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IMF_Smart_Education.png/320px-IMF_Smart_Education.png"
+        },
+        "finishDate": "2021-06-01",
+        "linkedCompetences": [
+          {
+            "name": "Android Studio",
+            "type": "technology"
+          },
+          {
+            "name": "Apache Tomcat",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "JavaFX",
+            "type": "technology"
+          },
+          {
+            "name": "MVC",
+            "type": "technology"
+          },
+          {
+            "name": "MongoDB",
+            "type": "technology"
+          },
+          {
+            "name": "MySQL",
+            "type": "technology"
+          },
+          {
+            "name": "PHP",
+            "type": "technology"
+          },
+          {
+            "name": "PHPStorm",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          },
+          {
+            "name": "SQLServer",
+            "type": "technology"
+          },
+          {
+            "name": "SQLite",
+            "type": "technology"
+          },
+          {
+            "name": "Spring Boot",
+            "type": "technology"
+          },
+          {
+            "name": "Unity3D",
+            "type": "technology"
+          }
+        ]
       }
     ]
   },
