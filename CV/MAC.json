@@ -176,6 +176,12 @@
       },
       {
         "skill": {
+          "name": "Adobe Xd",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Android",
           "type": "technology"
         }
@@ -206,6 +212,12 @@
       },
       {
         "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Flutter",
           "type": "technology"
         }
@@ -225,6 +237,12 @@
       {
         "skill": {
           "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JSON",
           "type": "technology"
         }
       },
@@ -285,6 +303,12 @@
       {
         "skill": {
           "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQLServer",
           "type": "technology"
         }
       },
