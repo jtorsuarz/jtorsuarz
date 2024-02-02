@@ -330,6 +330,44 @@
           "type": "technology"
         }
       }
+    ],
+    "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Analista Java - Aplicaciones Empresariales ",
+        "startDate": "2018-10-01",
+        "institution": {
+          "name": "Asociación Española de Programadores Informáticos",
+          "URL": "https://images.app.goo.gl/2AMfgjeGzBjJyQGk6"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Apache Beam",
+            "type": "technology"
+          },
+          {
+            "name": "Apache Tomcat",
+            "type": "technology"
+          },
+          {
+            "name": "Eclipse",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "JavaFX",
+            "type": "technology"
+          },
+          {
+            "name": "Netbeans",
+            "type": "technology"
+          }
+        ]
+      }
     ]
   },
   "careerPreferences": {
