@@ -9,7 +9,7 @@ Full stack developer with experience since 2018 creating robust and scalable sof
 - 🌐 **Technologies:** PHP, JavaScript (including Flutter for mobile), MySQL, PostgreSQL, HTML5, CSS, Docker.
 - 🐧 **Operating Systems:** Proficient in Linux server environments; also experienced in Windows servers.
 - 📹 **Content Creator:** I create educational videos and share helpful tips on social media to support the developer community.
-- 🌍 **Languages:** Fluent in English and Spanish.
+- 🌍 **Languages:** Fluent in Spanish.
 <!--
 ### 🛠️ Projects & Contributions 🛠️
 
@@ -33,7 +33,7 @@ Desarrollador full stack con experiencia desde 2018 creando soluciones de softwa
 - 🌐 **Tecnologías:** PHP, JavaScript (incluyendo Flutter para móviles), MySQL, PostgreSQL, HTML5, CSS, Docker.
 - 🐧 **Sistemas Operativos:** Experto en entornos de servidores Linux; también con experiencia en servidores Windows.
 - 📹 **Creador de Contenidos:** Creo videos educativos y comparto consejos útiles en redes sociales para apoyar a la comunidad de desarrolladores.
-- 🌍 **Idiomas:** Fluido en inglés y español.
+- 🌍 **Idiomas:** Fluido en español.
 
 <!--
 ### 🛠️ Proyectos y Contribuciones 🛠️
