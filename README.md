@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://avatars.githubusercontent.com/u/77606409?v=4"  style="border-radius: 50%;" />
+  <img height="200" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/77606409?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" />
 </div>
 
 ###
