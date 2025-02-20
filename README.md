@@ -2,7 +2,7 @@
 
 ###
 
-<div align="center"  style="border-radius: 50%;">
+<div align="center"  border-radius="50%;">
   <img height="200" src="https://avatars.githubusercontent.com/u/77606409?v=4" />
 </div>
 
